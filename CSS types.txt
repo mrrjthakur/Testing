@@ -1,0 +1,4 @@
+(LocalDB)\MSSQLLocalDB
+
+
+http://guides.beanstalkapp.com/
